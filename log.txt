@@ -1,0 +1,32 @@
+commit 5fd883d4eacb110681ebed6c2827e705a436942c (HEAD -> feature/log)
+Author: inx6tencia <kevintomas365@gmail.com>
+Date:   Wed Jun 21 16:30:12 2023 -0300
+
+    log of the commit
+
+
+commit 5fd883d4eacb110681ebed6c2827e705a436942c (HEAD -> feature/log)
+Author: inx6tencia <kevintomas365@gmail.com>
+Date:   Wed Jun 21 16:15:12 2023 -0300
+
+    log of the commit
+
+commit c5f3f6aef5f588a2ebefd8da7fb2b32d3b9cfe54 (origin/dev, dev)
+Author: inx6tencia <kevintomas365@gmail.com>
+Date:   Wed Jun 21 15:57:56 2023 -0300
+
+    delete readme
+
+commit dd0243092cb67e24b2dc6d3f96f22eb1eb46794b
+Author: inx6tencia <kevintomas365@gmail.com>
+Date:   Wed Jun 21 15:55:03 2023 -0300
+
+    commit readme
+
+commit cea607e316de3818e27cf2417e89fc76ff44a316 (origin/master, master)
+Author: inx6tencia <kevintomas365@gmail.com>
+Date:   Wed Jun 21 15:52:09 2023 -0300
+
+    prueba
+
+
